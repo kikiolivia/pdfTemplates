@@ -1,0 +1,5 @@
+docxtpl
+fastapi==0.109.2
+uvicorn==0.25.0
+requests
+Spire.Doc
